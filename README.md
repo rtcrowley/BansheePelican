@@ -3,6 +3,7 @@ A Forensic C# console app that parses BITS metadata and displays the results via
 
 The goal was to make a lightweight app that would produce simple output in a easy to ready format. Although, due to all the unique characters in BITS dat files, some strings may be *slightly* mangled.
 
+**Outputs:**
 * All HTTP and HTTPS Strings
 * Unique HTTP and HTTPS Strings
 * Downloaded files from BITS jobs - excluding default BITS tmp files.
